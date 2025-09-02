@@ -1,0 +1,19 @@
+Inicio
+      Escribir "Ingresar nota 1"
+      Leer nota1
+      Escribir "Ingresar nota 2"
+      Leer nota2
+      Escribir "Ingresar nota 3"
+      Leer nota3
+      Escribir "Ingresar peso 1"
+      Leer peso1
+      Escribir "Ingresar peso 2"
+      Leer peso2
+      Escribir "Ingresar peso 3"
+      Leer peso3
+      notaPonderada1 = nota1 * (peso1 / 100)
+      notaPonderada2 = nota2 * (peso2 / 100)
+      notaPonderada3 = nota3 * (peso3 / 100)
+      promedioFinal = notaPonderada1 + notaPonderada2 + notaPonderada3
+      Escribir "Promedio Final + promedioFinal"
+Fin
