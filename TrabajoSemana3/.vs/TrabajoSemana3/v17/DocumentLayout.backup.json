@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\NuevoPiero1.0\\Semana-3\\TrabajoSemana3\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Documents\\GitHub\\Semana-3\\TrabajoSemana3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B87B659E-814D-4F13-A2BA-ACE831B98013}|TrabajoSemana3.csproj|e:\\nuevopiero1.0\\semana-3\\trabajosemana3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B87B659E-814D-4F13-A2BA-ACE831B98013}|TrabajoSemana3.csproj|c:\\users\\alumno\\documents\\github\\semana-3\\trabajosemana3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B87B659E-814D-4F13-A2BA-ACE831B98013}|TrabajoSemana3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\NuevoPiero1.0\\Semana-3\\TrabajoSemana3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Documents\\GitHub\\Semana-3\\TrabajoSemana3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\NuevoPiero1.0\\Semana-3\\TrabajoSemana3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ALUMNO\\Documents\\GitHub\\Semana-3\\TrabajoSemana3\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T12:48:20.781Z",
               "EditorCaption": ""
