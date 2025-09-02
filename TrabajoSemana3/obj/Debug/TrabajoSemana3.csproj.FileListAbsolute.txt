@@ -1,0 +1,14 @@
+C:\Users\ALUMNO\Downloads\semana3ra\TrabajoSemana3\bin\Debug\TrabajoSemana3.exe.config
+C:\Users\ALUMNO\Downloads\semana3ra\TrabajoSemana3\bin\Debug\TrabajoSemana3.exe
+C:\Users\ALUMNO\Downloads\semana3ra\TrabajoSemana3\bin\Debug\TrabajoSemana3.pdb
+C:\Users\ALUMNO\Downloads\semana3ra\TrabajoSemana3\obj\Debug\TrabajoSemana3.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Downloads\semana3ra\TrabajoSemana3\obj\Debug\TrabajoSemana3.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Downloads\semana3ra\TrabajoSemana3\obj\Debug\TrabajoSemana3.exe
+C:\Users\ALUMNO\Downloads\semana3ra\TrabajoSemana3\obj\Debug\TrabajoSemana3.pdb
+E:\NuevoPiero1.0\Semana-3\TrabajoSemana3\bin\Debug\TrabajoSemana3.exe.config
+E:\NuevoPiero1.0\Semana-3\TrabajoSemana3\bin\Debug\TrabajoSemana3.exe
+E:\NuevoPiero1.0\Semana-3\TrabajoSemana3\bin\Debug\TrabajoSemana3.pdb
+E:\NuevoPiero1.0\Semana-3\TrabajoSemana3\obj\Debug\TrabajoSemana3.csproj.AssemblyReference.cache
+E:\NuevoPiero1.0\Semana-3\TrabajoSemana3\obj\Debug\TrabajoSemana3.csproj.CoreCompileInputs.cache
+E:\NuevoPiero1.0\Semana-3\TrabajoSemana3\obj\Debug\TrabajoSemana3.exe
+E:\NuevoPiero1.0\Semana-3\TrabajoSemana3\obj\Debug\TrabajoSemana3.pdb
